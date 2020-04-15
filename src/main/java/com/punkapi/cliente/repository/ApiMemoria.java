@@ -15,6 +15,7 @@ import com.punkapi.cliente.model.PunkBeer;
 public class ApiMemoria {
 	
 	final static String uri = "https://api.punkapi.com/v2/beers";
+	
 	public static PunkBeer punkBeers;
 	public static PunkBeer[] apiDadosMemoria;
 

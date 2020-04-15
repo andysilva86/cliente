@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.punkapi.cliente.ClienteApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.341 s - in com.punkapi.cliente.ClienteApplicationTests

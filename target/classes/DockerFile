@@ -1,0 +1,4 @@
+FROM openjdk:11
+VOLUME /tmp
+ADD target/cliente-0.0.1-SNAPSHOT.jar cliente.jar
+ENTRYPOINT ["java", "-jar", "/cliente.jar"]
